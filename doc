@@ -1,0 +1,16 @@
+-----------TS SETUP----------
+
+sudo npm install -g typescript
+
+tsc --init
+
+-----------TS SETUP END----------
+
+npm init -y
+
+npm install -D typescript
+
+npm install -D ts-node
+
+npm install -D nodemon
+
